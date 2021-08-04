@@ -1,1 +1,2 @@
-#moja strona internetowa z projektami
+# Moje projekty
+To jest moja strona internetowa z projektami
