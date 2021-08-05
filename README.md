@@ -1,4 +1,4 @@
-# Lista projektów
+# Projekty
 * Emulator CHIP-8
 * Prosty edytor tekstu
 * Powłoka systemowa
